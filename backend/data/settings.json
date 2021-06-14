@@ -1,0 +1,44 @@
+{
+  "web": {
+    "active": true,
+    "version": "1.0.0",
+    "title": "Testing title",
+    "port": 8001,
+    "masterToken": "lzg4fnkj52d8fayq",
+    "requestPath": "api",
+    "requests": {
+      "addUser": "addUser",
+      "delUser": "delUser",
+      "banUser": "banUser",
+      "resetHwid": "resetHwid",
+      "setApiAccess": "setApiAccess",
+      "addProduct": "addProduct",
+      "delProduct": "delProduct",
+      "modifyProduct": "modifyProduct",
+      "addSub": "addSubscription",
+      "modifySub": "modifySubscription",
+      "delSub": "delSubscription",
+      "delSubs": "delSubscriptions",
+      "getUsers": "getUsers",
+      "getUser": "getUser",
+      "getProducts": "getProducts",
+      "getProduct": "getProduct",
+      "getSubscriptions": "getSubscriptions",
+      "getSubscription": "getSubscription",
+      "getMyInfos": "getMyInformations"
+    }
+  },
+  "socket": {
+    "token": "aty1dh176349hlde",
+    "publicKey": "kYaIFZjOwgk8YPcH7Ffx9//MlMXaajt+moZYUvMYB3U=",
+    "privateKey": "f3N2HpFmyiIQ6xi/LaGuEKGtHxmAvnQ65MOJuMP4cCo="
+  },
+  "mysql": {
+    "host": "remotemysql.com",
+    "user": "hF0CWSWl8Z",
+    "password": "7mpagpOak7",
+    "database": "hF0CWSWl8Z",
+    "connectionLimit": 15
+  }
+}
+
