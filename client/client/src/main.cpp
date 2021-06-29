@@ -34,6 +34,7 @@ float playerfov = 90.0f;
 float playersens = 1.0f;
 bool enabled = false;
 std::string username;
+std::string connectionURL;
 std::string configPath = "C:/Program Files (x86)/Steam/steamapps/common/Rust/cfg/client.cfg";
 
 //Opens the file directory and sets configPath to user selection.
@@ -105,7 +106,7 @@ void ReadSetting() {
 	std::string sensString;
 
 	if (infline.is_open()) {
-		for (int i = 0; i < 71; i++)
+		for (int i = 0; i < 73; i++)
 		{
 			std::getline(infline, fovString);
 			//std::getline(infline, testing);
@@ -300,13 +301,15 @@ std::int32_t main()
 {
     sodium_init();
 
-    ls::validation v("http://9b59cc5a3545.ngrok.io", "kYaIFZjOwgk8YPcH7Ffx9//MlMXaajt+moZYUvMYB3U=" );
+	connectionURL = "http://bf61a4c40836.ngrok.io";
+	std::cout << "Please enter the connection url: ";
+	std::cin >> connectionURL;
+
+    ls::validation v(connectionURL, "kYaIFZjOwgk8YPcH7Ffx9//MlMXaajt+moZYUvMYB3U=" );
      // 400: Bad Request
      // 401: Unauthorized
-	std::cout << "Please enter your username: " << std::endl;
+	std::cout << "Please enter your username: ";
 	std::cin >> username;
-
-	std::cout << v.login(username) << std::endl;
 
 	if( !v.login( username ) ) {
         return -1;
@@ -325,7 +328,6 @@ std::int32_t main()
 
 	//At this point the program seems activated
 
-    printf( "ok!\n" ); 
     getchar();
 
 	//Reading setting of the client once

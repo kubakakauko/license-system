@@ -6,47 +6,47 @@
   Option-amd64asm   : 
   main.cpp
 C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\Weapons.hpp(14,28): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(231,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(267,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(232,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(268,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(281,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(283,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(285,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(287,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(289,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(295,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(487,149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(487,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(487,243): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(487,202): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(494,151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(494,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(494,251): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(494,204): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(501,139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(501,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(501,235): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(501,192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(508,136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(508,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(508,231): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(508,189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(515,133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(515,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(515,227): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(515,186): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(522,136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(522,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(522,231): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(522,189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(529,139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(529,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(529,235): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(529,192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(533,138): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(533,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(533,234): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(533,191): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(269,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(282,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(284,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(286,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(288,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(290,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(296,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(489,149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(489,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(489,243): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(489,202): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(496,151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(496,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(496,251): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(496,204): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(503,139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(503,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(503,235): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(503,192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(510,136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(510,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(510,231): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(510,189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(517,133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(517,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(517,227): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(517,186): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(524,136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(524,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(524,231): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(524,189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(531,139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(531,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(531,235): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(531,192): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(535,138): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(535,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(535,234): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(535,191): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xstring(2468,23): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
           with
           [
@@ -72,18 +72,19 @@ C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.2
           [
               _Iter=wchar_t *
           ]
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(71): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(72): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
           with
           [
               _Elem=wchar_t,
               _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
               _Alloc=std::allocator<char>
           ]
-C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(71): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+C:\Users\kuba-bootable\Documents\GitHub\license-system\client\client\src\main.cpp(72): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
           with
           [
               _Elem=wchar_t,
               _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
               _Alloc=std::allocator<char>
           ]
+LINK : warning LNK4031: no subsystem specified; CONSOLE assumed
   client.vcxproj -> C:\Users\kuba-bootable\Documents\GitHub\license-system\client\build\Debug-x64\client.exe
